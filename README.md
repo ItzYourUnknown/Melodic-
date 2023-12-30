@@ -2,7 +2,7 @@
   <br>
   <a href="https://github.com/ItzYourUnknown/Melodic™<img src="https://cdn.discordapp.com/avatars/1069508321305960478/58c54e39fa2718c551fe170ebed64dd8.webp"height="200" alt="Alpha"></a>
   <br>
-  MoE
+  Melodic™
   <br>
 </h1>
 
