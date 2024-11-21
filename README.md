@@ -17,9 +17,9 @@ Please read this policy carefully to understand our policies and practices regar
 
 # What does it store?
 
-Server IDs for server data (prefixes, settings).
+Server IDs for server data (prefixes, automod settings).
 
-User IDs to keep a record of afk
+User IDs to keep a record of whitelisted users. 
 
 
 Our bot only gathers personally identifiable data through commands run using the bot. This information helps us provide a better user experience for all Melodic™'s users.
